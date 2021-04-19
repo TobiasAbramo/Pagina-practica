@@ -1,8 +1,4 @@
 
-<html lang="es">
-<head>
- <meta charset="UTF-8">
-<title>parrafos</title>
 </head>
 <body>
          <h2>Acceso al Sistema</h2>
